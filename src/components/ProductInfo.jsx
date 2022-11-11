@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/ProductInfo.scss';
+import '@styles/ProductInfo.scss';
 import btAddToCart from '@icons/bt_add_to_cart.svg';
 
 const ProductInfo = () => {
